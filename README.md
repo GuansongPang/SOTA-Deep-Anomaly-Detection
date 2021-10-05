@@ -41,6 +41,7 @@ In this repository, we provide a continuously updated collection of implementati
 |OCAN	|AAAI|2019|	Tensorflow|	https://git.io/JfYGb |Semi-supervised|
 |FenceGAN|arXiv|2019|	Keras|	https://git.io/Jf4pR |Semi-supervised|
 |OCGAN|CVPR|2019|	MXNet|	https://git.io/Jf4p0 |Semi-supervised|
+|RTFM|ICCV|2021|PyTorch|https://github.com/tianyu0207/RTFM| Weakly-supervised|
 
 \* In the supervision column, 'semi-supervised' indicates that the specific methods are trained on exclusively normal data, 'unsupervised' indicates that they are trained on fully unlabeled data (mostly normal data), while `weakly-supervised' indicates that the methods use some form of weak supervision, e.g., coarse class labels, or partially observed anomaly class labels
 
