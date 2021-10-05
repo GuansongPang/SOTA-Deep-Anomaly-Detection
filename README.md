@@ -16,32 +16,36 @@ In this repository, we provide a continuously updated collection of implementati
 ## Algorithms and Source Codes
 
 
-| Method | Publication Venue | Year | API | Link | Supervision*|
-| :----------- | :-----------: | :-----------: | :-----------: | :----------- |:----------- |
-|RDA|KDD| 2017|	Tensorflow|	https://git.io/JfYG5 | Semi-supervised|
-|AnoGAN| IPMI|2017|	Tensorflow|	https://git.io/JfGgc |Semi-supervised|
-|Fast AntoGAN|Medical Image Analysis|2019|	Tensorflow|	https://git.io/JfZRn |Semi-supervised|
-|EBGAN|arXiv|2018|	Keras|	https://git.io/JfGgG |Semi-supervised|
-|ALAD	|ICDM|2018|	Keras|	https://git.io/JfZ8v |Semi-supervised|
-|GANomaly|ACCV|2018|	PyTorch|	https://git.io/JfGgn |Semi-supervised|
-|FFP|CVPR|2018|Tensorflow|	https://git.io/Jf4pc |Semi-supervised|
-|LSA| CVPR|2019|	Torch|	https://git.io/Jf4pW |Semi-supervised|
-|GT| NeurIPS|2018|	Keras|	https://git.io/JfZRW |Semi-supervised|
-|E3Outlier| NeurIPS|2019|	PyTorch|	https://git.io/Jf4pl |Unsupervised|
-|REPEN	|KDD|2018|	Keras|	https://git.io/JfZRg |Unsupervised|
-|RDP| IJCAI| 2020|PyTorch|	https://git.io/RDP |Unsupervised|
-|AE-1SVM	|ECML-PKDD|2018|	Tensorflow	|https://git.io/JfGgl |Unsupervised|
-|OC-NN| arXiv|2018|	Keras|	https://git.io/JfGgZ |Semi-supervised|
-|Deep SVDD| ICML|2018|	Tensorflow	|https://git.io/JfZRR |Semi-supervised|
-|Deep SAD	|ICLR|2020|	PyTorch	|https://git.io/JfOkr |Weakly-supervised|
-|DAGMM	|ICLR|2018|	PyTorch|	https://git.io/JfZR0 |Unsupervised|
-|MIL| CVPR|2018|	Keras	|https://git.io/JfZRz |Weakly-supervised|
-|DevNet| KDD|2019|	Keras|	https://git.io/JfZRw |Weakly-supervised|
-|ALOCC	|CVPR|2018|	Tensorflow|	https://git.io/Jf4p4 |Semi-supervised|
-|OCAN	|AAAI|2019|	Tensorflow|	https://git.io/JfYGb |Semi-supervised|
-|FenceGAN|arXiv|2019|	Keras|	https://git.io/Jf4pR |Semi-supervised|
-|OCGAN|CVPR|2019|	MXNet|	https://git.io/Jf4p0 |Semi-supervised|
-|RTFM|ICCV|2021|PyTorch|https://github.com/tianyu0207/RTFM| Weakly-supervised|
+| Method | Publication Venue | Year | API | Link | Supervision*|Data|
+| :----------- | :-----------: | :-----------: | :-----------: | :----------- |:----------- |:----------- |
+|RDA|KDD| 2017|	Tensorflow|	https://git.io/JfYG5 | Semi-supervised|Image|
+|AnoGAN| IPMI|2017|	Tensorflow|	https://git.io/JfGgc |Semi-supervised|Image|
+|Fast AntoGAN|Medical Image Analysis|2019|	Tensorflow|	https://git.io/JfZRn |Semi-supervised|Image|
+|EBGAN|arXiv|2018|	Keras|	https://git.io/JfGgG |Semi-supervised|Image|
+|ALAD	|ICDM|2018|	Keras|	https://git.io/JfZ8v |Semi-supervised|Image|
+|GANomaly|ACCV|2018|	PyTorch|	https://git.io/JfGgn |Semi-supervised|Image|
+|FFP|CVPR|2018|Tensorflow|	https://git.io/Jf4pc |Semi-supervised|Video|
+|LSA| CVPR|2019|	Torch|	https://git.io/Jf4pW |Semi-supervised|Image|
+|GT| NeurIPS|2018|	Keras|	https://git.io/JfZRW |Semi-supervised|Image|
+|E3Outlier| NeurIPS|2019|	PyTorch|	https://git.io/Jf4pl |Unsupervised|Image|
+|REPEN	|KDD|2018|	Keras|	https://git.io/JfZRg |Unsupervised|Tabular|
+|RDP| IJCAI| 2020|PyTorch|	https://git.io/RDP |Unsupervised|Tabular|
+|AE-1SVM	|ECML-PKDD|2018|	Tensorflow	|https://git.io/JfGgl |Unsupervised|Tabular|
+|OC-NN| arXiv|2018|	Keras|	https://git.io/JfGgZ |Semi-supervised|Image|
+|Deep SVDD| ICML|2018|	Tensorflow	|https://git.io/JfZRR |Semi-supervised|Image|
+|Deep SAD	|ICLR|2020|	PyTorch	|https://git.io/JfOkr |Weakly-supervised|Image|
+|DAGMM	|ICLR|2018|	PyTorch|	https://git.io/JfZR0 |Unsupervised|Image|
+|MIL| CVPR|2018|	Keras	|https://git.io/JfZRz |Weakly-supervised|Video|
+|DevNet| KDD|2019|	Keras|	https://git.io/JfZRw |Weakly-supervised|Tabular|
+|ALOCC	|CVPR|2018|	Tensorflow|	https://git.io/Jf4p4 |Semi-supervised|Image|
+|OCAN	|AAAI|2019|	Tensorflow|	https://git.io/JfYGb |Semi-supervised|Sequential data|
+|FenceGAN|arXiv|2019|	Keras|	https://git.io/Jf4pR |Semi-supervised|Image&Tabular|
+|OCGAN|CVPR|2019|	MXNet|	https://git.io/Jf4p0 |Semi-supervised|Image|
+|RTFM|ICCV|2021|PyTorch|https://github.com/tianyu0207/RTFM| Weakly-supervised|Video|
+|CCD|MICCAI|2021|PyTorch|https://github.com/tianyu0207/CCD|Semi-supervised|Image|
+|MemAE|ICCV|2019|PyTorch|https://git.io/JVnlz|Semi-supervised|Image&Video|
+|GCN-AE|SDM|2019|PyTorch|https://git.io/JVn43|Unsupervised|Graph|
+
 
 \* In the supervision column, 'semi-supervised' indicates that the specific methods are trained on exclusively normal data, 'unsupervised' indicates that they are trained on fully unlabeled data (mostly normal data), while `weakly-supervised' indicates that the methods use some form of weak supervision, e.g., coarse class labels, or partially observed anomaly class labels
 
