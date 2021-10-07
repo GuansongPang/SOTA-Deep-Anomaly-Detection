@@ -46,6 +46,8 @@ In this repository, we provide a continuously updated collection of implementati
 |MemAE|ICCV|2019|PyTorch|https://git.io/JVnlz|Semi-supervised|Image&Video|
 |GCN-AE|SDM|2019|PyTorch|https://git.io/JVn43|Unsupervised|Graph|
 |DevNet|arXiv|2021|PyTorch|https://git.io/DevNet|Weakly-supervised|Image|
+|GCLNC|CVPR|2019|PyTorch|https://git.io/JwoHS|Weakly-supervised|Video|
+
 
 
 \* In the supervision column, 'semi-supervised' indicates that the specific methods are trained on exclusively normal data, 'unsupervised' indicates that they are trained on fully unlabeled data (mostly normal data), while `weakly-supervised' indicates that the methods use some form of weak supervision, e.g., coarse class labels, or partially observed anomaly class labels
