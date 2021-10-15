@@ -41,12 +41,14 @@ In this repository, we provide a continuously updated collection of implementati
 |OCAN	|AAAI|2019|	Tensorflow|	https://git.io/JfYGb |Semi-supervised|Sequential data|
 |FenceGAN|arXiv|2019|	Keras|	https://git.io/Jf4pR |Semi-supervised|Image&Tabular|
 |OCGAN|CVPR|2019|	MXNet|	https://git.io/Jf4p0 |Semi-supervised|Image|
-|RTFM|ICCV|2021|PyTorch|https://github.com/tianyu0207/RTFM| Weakly-supervised|Video|
-|CCD|MICCAI|2021|PyTorch|https://github.com/tianyu0207/CCD|Semi-supervised|Image|
+|RTFM|ICCV|2021|PyTorch|https://git.io/JKnE6| Weakly-supervised|Video|
+|CCD|MICCAI|2021|PyTorch|https://git.io/JKnEM|Semi-supervised|Image|
 |MemAE|ICCV|2019|PyTorch|https://git.io/JVnlz|Semi-supervised|Image&Video|
 |GCN-AE|SDM|2019|PyTorch|https://git.io/JVn43|Unsupervised|Graph|
 |DevNet|arXiv|2021|PyTorch|https://git.io/DevNet|Weakly-supervised|Image|
 |GCLNC|CVPR|2019|PyTorch|https://git.io/JwoHS|Weakly-supervised|Video|
+|OmniAnomaly|KDD|2019|Tensorflow|https://git.io/JKnu4|Unsupervised|Time series|
+|RWAD|CVPR|2018|Keras|https://git.io/JfZRz| Weakly-supervised|Video|
 
 
 
