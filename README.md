@@ -38,7 +38,7 @@ In this repository, we provide a continuously updated collection of implementati
 |MIL| CVPR|2018|	Keras	|https://git.io/JfZRz |Weakly-supervised|Video|
 |DevNet| KDD|2019|	Keras|	https://git.io/JfZRw |Weakly-supervised|Tabular|
 |ALOCC	|CVPR|2018|	Tensorflow|	https://git.io/Jf4p4 |Semi-supervised|Image|
-|OCAN	|AAAI|2019|	Tensorflow|	https://git.io/JfYGb |Semi-supervised|Sequential data|
+|OCAN	|AAAI|2019|	Tensorflow|	https://git.io/JfYGb |Semi-supervised|Sequential|
 |FenceGAN|arXiv|2019|	Keras|	https://git.io/Jf4pR |Semi-supervised|Image&Tabular|
 |OCGAN|CVPR|2019|	MXNet|	https://git.io/Jf4p0 |Semi-supervised|Image|
 |RTFM|ICCV|2021|PyTorch|https://git.io/JKnE6| Weakly-supervised|Video|
@@ -49,6 +49,7 @@ In this repository, we provide a continuously updated collection of implementati
 |GCLNC|CVPR|2019|PyTorch|https://git.io/JwoHS|Weakly-supervised|Video|
 |OmniAnomaly|KDD|2019|Tensorflow|https://git.io/JKnu4|Unsupervised|Time series|
 |RWAD|CVPR|2018|Keras|https://git.io/JfZRz| Weakly-supervised|Video|
+|A3|ECMLPKDD|2020|Keras|https://github.com/Fraunhofer-AISEC/A3|Semi-supervised|Tabular|
 
 
 
