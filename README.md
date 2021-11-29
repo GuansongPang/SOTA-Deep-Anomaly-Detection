@@ -49,7 +49,7 @@ In this repository, we provide a continuously updated collection of implementati
 |GCLNC|CVPR|2019|PyTorch|https://git.io/JwoHS|Weakly-supervised|Video|
 |OmniAnomaly|KDD|2019|Tensorflow|https://git.io/JKnu4|Unsupervised|Time series|
 |RWAD|CVPR|2018|Keras|https://git.io/JfZRz| Weakly-supervised|Video|
-|A3|ECMLPKDD|2020|Keras|https://github.com/Fraunhofer-AISEC/A3|Semi-supervised|Tabular|
+|A3|ECMLPKDD|2020|Keras|https://git.io/JM0I1|Weakly-supervised|Tabular|
 
 
 
