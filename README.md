@@ -50,7 +50,7 @@ In this repository, we provide a continuously updated collection of implementati
 |OmniAnomaly|KDD|2019|Tensorflow|https://git.io/JKnu4|Unsupervised|Time series|
 |RWAD|CVPR|2018|Keras|https://git.io/JfZRz| Weakly-supervised|Video|
 |A3|ECMLPKDD|2020|Keras|https://git.io/JM0I1|Weakly-supervised|Tabular|
-
+|GLocalKD|WSDM|2022|PyTorch|https://git.io/GLocalKD|Semi/Un-supervised|Graph|
 
 
 \* In the supervision column, 'semi-supervised' indicates that the specific methods are trained on exclusively normal data, 'unsupervised' indicates that they are trained on fully unlabeled data (mostly normal data), while `weakly-supervised' indicates that the methods use some form of weak supervision, e.g., coarse class labels, or partially observed anomaly class labels
