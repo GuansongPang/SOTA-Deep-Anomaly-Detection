@@ -24,7 +24,6 @@ In this repository, we provide a continuously updated collection of implementati
 |EBGAN|arXiv|2018|	Keras|	https://git.io/JfGgG |Semi-supervised|Image|
 |ALAD	|ICDM|2018|	Keras|	https://git.io/JfZ8v |Semi-supervised|Image|
 |GANomaly|ACCV|2018|	PyTorch|	https://git.io/JfGgn |Semi-supervised|Image|
-|FFP|CVPR|2018|Tensorflow|	https://git.io/Jf4pc |Semi-supervised|Video|
 |LSA| CVPR|2019|	Torch|	https://git.io/Jf4pW |Semi-supervised|Image|
 |GT| NeurIPS|2018|	Keras|	https://git.io/JfZRW |Semi-supervised|Image|
 |E3Outlier| NeurIPS|2019|	PyTorch|	https://git.io/Jf4pl |Unsupervised|Image|
@@ -38,6 +37,7 @@ In this repository, we provide a continuously updated collection of implementati
 |IGD|AAAI|2022|PyTorch|https://git.io/JMj7N|Semi-supervised|Image|
 |DevNet|arXiv|2021|PyTorch|https://git.io/DevNet|Weakly-supervised|Image|
 |MemAE|ICCV|2019|PyTorch|https://git.io/JVnlz|Semi-supervised|Image&Video|
+|FFP|CVPR|2018|Tensorflow|	https://git.io/Jf4pc |Semi-supervised|Video|
 |RWAD|CVPR|2018|Keras|https://git.io/JfZRz| Weakly-supervised|Video|
 |GCLNC|CVPR|2019|PyTorch|https://git.io/JwoHS|Weakly-supervised|Video|
 |RTFM|ICCV|2021|PyTorch|https://git.io/JKnE6| Weakly-supervised|Video|
